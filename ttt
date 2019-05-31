@@ -1,6 +1,0 @@
-echo "# 108_SM_Team4" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/poan0627/108_SM_Team4.git
-git push -u origin master
